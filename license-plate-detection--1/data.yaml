@@ -1,0 +1,12 @@
+names:
+- License-plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-detection-vkmpg
+  url: https://universe.roboflow.com/licenseplateobjectdetection/license-plate-detection-vkmpg/dataset/1
+  version: 1
+  workspace: licenseplateobjectdetection
+test: ../test/images
+train: license-plate-detection--1/train/images
+val: license-plate-detection--1/valid/images
