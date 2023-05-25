@@ -5,3 +5,4 @@ yolov8s.pt
 main.ipynb
 .DS_Store
 datasets/.DS_Store
+detect.py
