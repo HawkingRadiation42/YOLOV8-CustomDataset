@@ -3,3 +3,5 @@ yolov8n.pt
 yolov8s.pt
 .license_plate_detection--1
 main.ipynb
+.DS_Store
+datasets/.DS_Store
