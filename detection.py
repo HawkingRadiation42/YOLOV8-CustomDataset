@@ -16,4 +16,4 @@ model = YOLO("runs/detect/train3/weights/best.pt")
 
 # from list of PIL/ndarray
 # results = model.predict(source=[im1, im2], save=True)
-results = model.predict(source="datasets/test/images", save=True) # Display preds. Accepts all YOLO predict arguments
+results = model.predict(source="/Users/shreykhandelwal/desktop/internship/truck-number-plate/data", save=True) # Display preds. Accepts all YOLO predict arguments
