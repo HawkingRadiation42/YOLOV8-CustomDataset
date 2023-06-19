@@ -1,6 +1,7 @@
 import os
 import cv2
 from ultralytics import YOLO
+from paddleocr import PaddleOCR
 
 def load_model(path):
     model = YOLO(path)
